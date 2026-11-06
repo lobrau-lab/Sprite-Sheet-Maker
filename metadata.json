@@ -1,0 +1,6 @@
+{
+  "name": "SpriteSheet Pro",
+  "description": "Generate professional 2D fighting game sprite sheets from a single character image using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image-generation"]
+}
